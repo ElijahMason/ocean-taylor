@@ -387,7 +387,13 @@ textarea {
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-note {
+  margin: 0 0 1.5rem;
+  max-width: 36rem;
+  color: var(--muted);
 }
 
 .section-head h2,

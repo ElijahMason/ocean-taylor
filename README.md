@@ -2,7 +2,9 @@
 
 Site for Ocean Taylor, media and marketing consultant.
 
-The engagements on the work page are sample narratives written for this site. They are not a client list.
+Contact is oceantaylor503@gmail.com. The form opens your mail app. Nothing is stored on the server.
+
+The briefs on the work page are examples. They are not a client list.
 
 ## Local preview
 
@@ -14,4 +16,4 @@ Open `http://127.0.0.1:4173`.
 
 ## Deploy
 
-Vercel serves the repository as a static site. Production is the `main` branch.
+Vercel serves a file deploy of this static site. A push to `main` does not update production until the Vercel GitHub app can see this repository.

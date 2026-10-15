@@ -76,11 +76,11 @@
       var status = document.querySelector("#form-status");
       if (status) {
         status.textContent =
-          "Your email app should open with the note. If it does not, write to hello@oceantaylor.com.";
+          "Your email app should open with the note. If it does not, write to oceantaylor503@gmail.com.";
       }
 
       window.location.href =
-        "mailto:hello@oceantaylor.com?subject=" +
+        "mailto:oceantaylor503@gmail.com?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
