@@ -1,0 +1,17 @@
+{
+  "name": "Ocean Taylor",
+  "short_name": "Ocean Taylor",
+  "description": "Media and marketing consultant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ecdf",
+  "theme_color": "#f3ecdf",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
